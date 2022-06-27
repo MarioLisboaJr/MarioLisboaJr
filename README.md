@@ -12,7 +12,8 @@ Me formei em Engenharia de Produção ao final de 2019. Atuei com previsões de 
 
 <br>
 
-✨ Evitando Fraudes Bancárias com Modelo de Classificação [↗️](https://github.com/MarioLisboaJr/fraud_detect)
+✨ Evitando Fraudes Bancárias com Modelo de Classificação [↗️](https://github.com/MarioLisboaJr/fraud_detect) <br>
+✨ Análise Exploratória de Personalidade dos Clientes e Criação de Modelo Preditivo para Campanha de Marketing [↗️](https://github.com/MarioLisboaJr/customer_personality_analysis)
 
 <hr>
 
